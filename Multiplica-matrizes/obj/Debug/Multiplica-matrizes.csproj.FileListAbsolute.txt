@@ -1,0 +1,6 @@
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\bin\Debug\Multiplica-matrizes.exe.config
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\bin\Debug\Multiplica-matrizes.exe
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\bin\Debug\Multiplica-matrizes.pdb
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\obj\Debug\Multiplica-matrizes.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\obj\Debug\Multiplica-matrizes.exe
+C:\Users\Christopher\Desktop\Multiplica-matrizes\Multiplica-matrizes\obj\Debug\Multiplica-matrizes.pdb
